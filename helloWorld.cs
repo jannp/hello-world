@@ -3,8 +3,8 @@ using System;
 // code will be implemented here, rite?
 public class HW()
 {
-    public static void main(string[] args)
+    static void main(string[] args)
     {
-        print("Hello my dearest world! -c#");
+        Console.WriteLine("Hello my dearest world! -c#");
     }
 }
